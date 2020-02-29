@@ -6,7 +6,7 @@ This is a Visual Studio Code theme with subtle syntax colors on a dark backgroun
 
 ## Theme Screenshot
 
-![Overcast Default Theme](./image/default-theme-screenshot.png)
+![Overcast - Dark Blue Theme](./image/overcast-dark-blue-theme-screenshot.png)
 <br><br>
 
 
@@ -20,7 +20,7 @@ Search for the theme in the extension marketplace search and then click the __In
 Search Term `overcast-code-theme`
 
 
-Enable the installed theme from the Color Theme drop down.<br>
+Enable the installed theme from the Color Theme drop down list.<br>
 Menu `Code / File > Preferences > Color Theme > Overcast`
 <br><br>
 
@@ -36,5 +36,5 @@ Please report issues related to this theme on the repository page.<br>
 
 MIT License
 
-Copyright &copy; 2020 [Cecil Jacob](http://www.ceciljacob.com)
-<br><br>
+Copyright &copy; 2020 [Cecil Jacob](https://www.ceciljacob.com)
+<br>
