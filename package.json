@@ -1,0 +1,36 @@
+{
+    "name": "overcast-code-theme",
+    "displayName": "Overcast Theme",
+    "publisher": "ceciljacob",
+    "version": "1.0.1",
+    "license": "MIT",
+    "description": "This is a Visual Studio Code theme with subtle syntax colors on a dark background.",
+    "icon": "Icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ceciljacob/overcast-code-theme"
+    },
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Overcast - Dark Blue Theme",
+                "uiTheme": "vs-dark",
+                "path": "./theme/overcast-dark-blue-color-theme.json"
+            }
+        ]
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Dark Theme"
+    ],
+    "galleryBanner": {
+        "color": "#060f16",
+        "theme": "dark"
+    }
+}
