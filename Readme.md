@@ -39,5 +39,5 @@ Please report issues related to this theme on the repository page.<br>
 [GitHub Repository](https://github.com/ceciljacob/overcast-code-theme/issues)
 <br><br>
 
-Copyright (c) 2020 <a href="https://www.ceciljacob.com">Cecil Jacob</a> &amp; <a href="https://www.beaim.com/">BEAIM Technology</a>
+Copyright <a href="https://www.ceciljacob.com">Cecil Jacob</a> &amp; <a href="https://www.beaim.com/">BEAIM Technology</a>
 <br>
